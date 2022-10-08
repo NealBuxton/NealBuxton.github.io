@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/NealBuxton/NealBuxton.gith
 
 [test](./Readme2.html)
 
+<details><summary>Education</summary></details>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
