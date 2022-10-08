@@ -4,12 +4,11 @@ You can use the [editor on GitHub](https://github.com/NealBuxton/NealBuxton.gith
 
 [test](./Readme2.html)
 # Education
-```
   - Bachelor of Science in Physics and Mathematics from [Gordon College](https://www.gordon.edu) 2010
   - Master of Science in Computer Science (Computers and Statistics) from [University of Rhode Island](https://www.uri.edu) 2016
   - Master of Science in Mathematics from [West Virginia University](http://www.wvu.edu) 2020
   - PhD Student at West Virginia University
- ```
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
