@@ -1,9 +1,9 @@
 ---
 title: About Neal Buxton
----
+
 - [about](./)
 - [coding](./coding.html)
-
+---
 
 # Education
   - B.S. in Physics and Mathematics from [Gordon College](https://www.gordon.edu) 2010
