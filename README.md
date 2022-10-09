@@ -1,4 +1,4 @@
-# Neal Buxton
+title: "Neal Buxton"
 - [about](./)
 - [coding](./coding.html)
 
