@@ -1,44 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NealBuxton/NealBuxton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-[test](./Readme2.html)
+## Neal Buxton
 # Education
   - B.S. in Physics and Mathematics from [Gordon College](https://www.gordon.edu) 2010
   - M.S. in Computer Science (Computers and Statistics) from [University of Rhode Island](https://www.uri.edu) 2016
   - M.S. in Mathematics from [West Virginia University](http://www.wvu.edu) 2020
-  - PhD Student at West Virginia University
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NealBuxton/NealBuxton.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  - Ph.D. Student at West Virginia University
+# Teaching Experience
+  - Graduate Teaching Assistant at West Virginia University from September 2019 to Present
+    - Teaching Math 153 Calculus 1A Fall 2022
+    - Teaching Assistant for Math 153 Calculus 1A Spring 2022
+    - Teaching Assistant for Math 155 Calculus 1 Fall 2021
+    - Teaching Assistant for Math 154 Calculus 1B Spring 2021
+    - Grader for Math 251 Calculus 3 Fall 2020
+    - Teaching Assistant for Math 154 Calculus 1B Spring 2020
+    - Teaching Assistant for Math 155 Calculus 1 Fall 2019
+  - AmeriCorps National Civilian Community Corps, Center, CO from March 2012-May 2012
+    - Corps Member: Assisted in a high school math and science classroom at Center Consolidated Schools
+  - Tutor through Wyzant.com, Remote from March 2011 to April 2011
+    - Tutored a student in 9th Grade Algebra
+  - Teacher's Assistant at Gordon College Physics Department, Wenham Ma from September 2018 to December 2009
+    - Graded Introductory Physics Workbooks
+# Work Experience
+  - Geo Instruments, Narragansett, RI
+    - Independent Contractor from July 2019 to August 2019
+      - Trained Employees and performed minor updates
+    - IT/Engineering Assistant, Software Engineer, Software Developer from May 2013 to August 2018
+      - Automated/Standardized/Documented/Troubleshooted IT processes and Data Flow processes (python, windows)
+      - Supported the primary customer facing app (php, linux)
