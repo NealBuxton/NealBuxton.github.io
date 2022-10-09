@@ -6,7 +6,7 @@ title: Neal Buxton
   - B.S. in Physics and Mathematics from [Gordon College](https://www.gordon.edu) 2010
   - M.S. in Computer Science (Computers and Statistics) from [University of Rhode Island](https://www.uri.edu) 2016
   - M.S. in Mathematics from [West Virginia University](http://www.wvu.edu) 2020
-  - Ph.D. Student at West Virginia University
+  - Ph.D. Student in Mathematics at West Virginia University
 
 
 # Teaching Experience
