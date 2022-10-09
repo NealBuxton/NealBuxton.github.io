@@ -1,6 +1,5 @@
 ---
-Layout: Page
-Title: "Coding"
+title: {{Coding}}
 ---
 
 - [about](./)
