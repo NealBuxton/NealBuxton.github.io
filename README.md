@@ -1,10 +1,11 @@
-# Education
+# Neal Buxton
+- # Education
   - B.S. in Physics and Mathematics from [Gordon College](https://www.gordon.edu) 2010
   - M.S. in Computer Science (Computers and Statistics) from [University of Rhode Island](https://www.uri.edu) 2016
   - M.S. in Mathematics from [West Virginia University](http://www.wvu.edu) 2020
   - Ph.D. Student at West Virginia University
 
-# Teaching Experience
+- # Teaching Experience
   - Graduate Teaching Assistant at West Virginia University from September 2019 to Present
     - Teaching Math 153 Calculus 1A Fall 2022
     - Teaching Assistant for Math 153 Calculus 1A Spring 2022
@@ -20,7 +21,7 @@
   - Teacher's Assistant at Gordon College Physics Department, Wenham Ma from September 2018 to December 2009
     - Graded Introductory Physics Workbooks
 
-# Work Experience
+- # Work Experience
   - Geo Instruments, Narragansett, RI
     - Independent Contractor from July 2019 to August 2019
       - Trained Employees and performed minor updates
