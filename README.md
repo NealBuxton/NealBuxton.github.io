@@ -1,6 +1,3 @@
----
-title: About
----
 
 # Education
   - B.S. in Physics and Mathematics from [Gordon College](https://www.gordon.edu) 2010
