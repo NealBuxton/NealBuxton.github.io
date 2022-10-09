@@ -1,5 +1,8 @@
 # Neal Buxton
-[about](./) [coding](./coding.html)
+- [about](./)
+- [coding](./coding.html)
+
+
 # Education
   - B.S. in Physics and Mathematics from [Gordon College](https://www.gordon.edu) 2010
   - M.S. in Computer Science (Computers and Statistics) from [University of Rhode Island](https://www.uri.edu) 2016
