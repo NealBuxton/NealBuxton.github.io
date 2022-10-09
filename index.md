@@ -1,5 +1,5 @@
 ---
-title: About Neal Buxton
+title: Neal Buxton
 ---
 
 # Education
