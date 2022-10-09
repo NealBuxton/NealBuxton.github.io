@@ -1,8 +1,5 @@
 ---
 title: About Neal Buxton
-
-- [about](./)
-- [coding](./coding.html)
 ---
 
 # Education
