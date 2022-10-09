@@ -1,1 +1,2 @@
-[about](./README.html) [coding](./coding.html)
+[about](./)
+[coding](./coding)
