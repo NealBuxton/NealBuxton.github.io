@@ -22,7 +22,7 @@ title: Neal Buxton
     - Corps Member: Assisted in a high school math and science classroom at Center Consolidated Schools
   - Tutor through Wyzant.com, Remote from March 2011 to April 2011
     - Tutored a student in 9th Grade Algebra
-  - Teacher's Assistant at Gordon College Physics Department, Wenham Ma from September 2018 to December 2009
+  - Teacher's Assistant at Gordon College Physics Department, Wenham Ma from September 2008 to December 2009
     - Graded Introductory Physics Workbooks
 
 
